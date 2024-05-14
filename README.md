@@ -1,2 +1,2 @@
 # queryPodes
-Untuk mempermudah running query
+Untuk mempermudah running query.
